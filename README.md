@@ -8,7 +8,9 @@ This project provides blockhashes for the ChessCoin blockchain.
 Why?
 * there is currently no working checkpoint :-(
   * see section in my blog: [2017 Dec 10: no uptodate synccheckpoint leaves your house open for manipulation attempts + does not help newcomers in terms of sync speed](https://github.com/chess-fan/thoughts)
-  * and this bug report
+  * and [this](https://github.com/COINFORCHESS/ChessCoin/issues/1) bug report
+
+![cp](https://user-images.githubusercontent.com/34405095/33800354-b02b1f50-dd3e-11e7-9aed-5d61f48e9b89.png)
 
 
 A bot will randomly post a current block hash of the ChessCoin network into here.
