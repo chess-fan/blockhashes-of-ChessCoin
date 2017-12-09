@@ -28,7 +28,7 @@ Normally it would be enough to provide the newest blockhash since the new blockh
 
 Our goal:
 * over time to make this very github project which you are reading right now "useless" by using another, better approach
-* but until we add a new checkpoint (and that regularly) this project will live on
+* but until we add a [new checkpoint](https://github.com/COINFORCHESS/ChessCoin/issues/1) (and that regularly) this project will live on
 
 # random blockhashes (blocknumber and then hash):
 * 861705: 763a4d0414019751ca03e4044cab78a383afddea736f6e7a52d6a163cc7180ae
