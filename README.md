@@ -6,7 +6,7 @@
 This project provides blockhashes for the ChessCoin blockchain.
 
 Why?
-* there is currently no uptodate checkpoint :-(
+* for 18 months there was no new checkpoint made :-(
   * see section in my blog: [2017 Dec 10: no uptodate synccheckpoint leaves your house open for manipulation attempts + does not help newcomers in terms of sync speed](https://github.com/chess-fan/thoughts)
   * and [this](https://github.com/COINFORCHESS/ChessCoin/issues/1) bug report
 
