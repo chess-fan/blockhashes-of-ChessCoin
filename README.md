@@ -31,7 +31,9 @@ Our goal:
 * but until we add a [new checkpoint](https://github.com/COINFORCHESS/ChessCoin/issues/1) (and that regularly) this project will live on
 
 # random blockhashes (blocknumber and then hash):
-* 861705: 763a4d0414019751ca03e4044cab78a383afddea736f6e7a52d6a163cc7180ae
-* 862153: 5cd7a0620ffeeaa0bff85a0fe0cc952cf23d3ce4cf8e6aa2a098ca578ecfdc7b
-* 872127: 7b7b747b619d75a25fa35c8ecb6c18d33b8938bee5133fed5c6a80690df4dbce
-* 872137: c4a6af325869fe479f6ef2f1b876c422ec83d16f68be30fb4614ab7d1cab0260
+* 872137: c4a6af325869fe479f6ef2f1b876c422ec83d16f68be30fb4614ab7d1cab0260 (2017 Dec 9)
+* 872127: 7b7b747b619d75a25fa35c8ecb6c18d33b8938bee5133fed5c6a80690df4dbce (2017 Dec 9)
+* 862153: 5cd7a0620ffeeaa0bff85a0fe0cc952cf23d3ce4cf8e6aa2a098ca578ecfdc7b (2017 Dec 3)
+* 861705: 763a4d0414019751ca03e4044cab78a383afddea736f6e7a52d6a163cc7180ae (2017 Dec 3)
+* 407446: b9497356dd69b5134c9c6d344e6caf0eded4571acaa3448929f2b2029bb98016 (2017 Feb 22, see also [issue #1](https://github.com/chess-fan/blockhashes-of-ChessCoin/issues/1))
+* 407425: f69d5b36e5748dc9944be0789bf032129d2e5f1f05ab93e7bf7aef0776e3b20a (2017 Feb 22, see also [issue #1](https://github.com/chess-fan/blockhashes-of-ChessCoin/issues/1))
