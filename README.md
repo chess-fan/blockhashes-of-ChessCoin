@@ -3,7 +3,7 @@
 
 
 # about
-This project provides blockhashes for the ChessCoin blockchain.
+This project provides blockhashes for the ChessCoin blockchain, and with this tries to give more trust into the blockchain.
 
 Why?
 * for 18 months there was no new checkpoint made :-(
@@ -24,6 +24,7 @@ You're invited to also post your own hashes
 
 Normally it would be enough to provide the newest blockhash since the new blockhash depends on the old ones
 * but to also cross check my bot it's good to have a history (by the time stamp of this README file)
+  * never trust my bot either, best is to check several sources for the same block/hash
 * also it's good to find out when the hashes differ when this fork/manipulation/... attempt may have started
 
 Our goal:
