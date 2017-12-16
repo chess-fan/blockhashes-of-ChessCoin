@@ -1,4 +1,5 @@
 * about
+* achievements
 * blockhashes
 
 
@@ -30,6 +31,12 @@ Normally it would be enough to provide the newest blockhash since the new blockh
 Our goal:
 * over time to make this very github project which you are reading right now "obsolete" by using another, better approach
 * but until we add a [new checkpoint](https://github.com/COINFORCHESS/ChessCoin/issues/1) (and that regularly) this project will live on
+
+# achievements of this project
+
+* Dec 12/13: identify that a block explorer was on a fork + bring them back to the main chain, see [here](https://github.com/chess-fan/MCT/issues/15)
+
+<br>
 
 # random blockhashes (blocknumber and then hash):
 * 877317: 8e0e1d972b2a39594e5bd16c5071de92f2b83dd23dab76f8554801129ea840a9 (Dec 13)
