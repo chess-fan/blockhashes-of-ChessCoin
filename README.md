@@ -4,7 +4,7 @@
 
 
 # about
-This project provides blockhashes for the ChessCoin blockchain, and with this tries to give more trust into the blockchain.
+This project provides blockhashes for the ChessCoin blockchain, and with this tries to give more trust into the blockchain (via timestamp here, see [commits](https://github.com/chess-fan/blockhashes-of-ChessCoin/commits/master)).
 
 Why?
 * for 18 months there was no new checkpoint made :-(
@@ -34,7 +34,7 @@ Our goal:
 
 # achievements of this project
 
-* Dec 12/13: identify that a block explorer was on a fork + bring them back to the main chain, see [here](https://github.com/chess-fan/MCT/issues/15)
+* 2017 Dec 12/13: identify that a block explorer was on a fork + bring them back to the main chain, see [here](https://github.com/chess-fan/MCT/issues/15)
 
 <br>
 
