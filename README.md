@@ -7,7 +7,8 @@
 This project provides blockhashes for the ChessCoin blockchain, and with this tries to give more trust into the blockchain (via timestamp here, see [commits](https://github.com/chess-fan/blockhashes-of-ChessCoin/commits/master)).
 
 use cases, e.g.:
-* a block explorer shows you data: can you trust it? check it with here. Also, don't trust me, check my data here with a block explorer :-)
+* a block explorer shows you data: can you trust it? ... Why? It is controlled by 1 person who can edit his database at any point :-(
+** thus, check it with here. (Also, don't trust me, check my data here with a block explorer :-) )
 * new users sync the chain: they can stop syncing when they see they are on a fork (hashes do NOT match)
 * ...
 
