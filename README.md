@@ -46,6 +46,10 @@ Our goal:
 <br>
 
 # random blockhashes (blocknumber and then hash):
+
+* howto: in your ChessCoin wallet type: _getblockhash HereYourBlockNumber_
+  * this shows you then the hash (make a test and compare with one of the hashes from below)
+
 * 2037440: 309f46ea3f9ceb974c782782aea23979786c0be2eee088a71d88d61374090194 (2019 Oct 24)
 * 2037370: dafbc1100aae50b7d22620c3f6ee1ad2d7832aec7df4b13886c64990a73a542a
 * 2037000: fc025e4d36dd4b17ca8158d9e774e1c3e135b50cc400057f0d708cd20e8136b6
