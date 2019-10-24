@@ -6,7 +6,13 @@
 # about
 This project provides blockhashes for the ChessCoin blockchain, and with this tries to give more trust into the blockchain (via timestamp here, see [commits](https://github.com/chess-fan/blockhashes-of-ChessCoin/commits/master)).
 
-Why?
+use cases, e.g.:
+* a block explorer shows you data: can you trust it? check it with here. Also, don't trust me, check my data here with a block explorer :-)
+* new users sync the chain: they can stop syncing when they see they are on a fork (hashes do NOT match)
+* ...
+
+
+Why? (from 2017)
 * for 18 months there was no new checkpoint made :-(
   * see section in my blog: [2017 Dec 10: no uptodate synccheckpoint leaves your house open for manipulation attempts + does not help newcomers in terms of sync speed](https://github.com/chess-fan/thoughts)
   * and [this](https://github.com/COINFORCHESS/ChessCoin/issues/1) bug report
